@@ -1,0 +1,12 @@
+.bg{
+  display:flex;
+  flex-direction: row;
+  
+}
+*{
+  padding:10px;
+}
+.box{
+ 
+  box-shadow: 10px 10px rgb(38, 174, 219);
+}
